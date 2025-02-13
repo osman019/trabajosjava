@@ -4,7 +4,7 @@ public class Ejercicio2 {
     public static void main(String[] args) {
         int numeroInt = 10;
         double numeroDouble = 12.0;
-        char caracter = 'M';
+        char caracter = 'O';
         Boolean bandera = true;
 
         System.out.println("int: " + numeroInt);

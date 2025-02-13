@@ -12,7 +12,7 @@ public class Ejercicio6 {
         int contador = 1;
         
         while (contador <= 10) {
-            System.out.println(numero + " " + contador + " = " + (numero * contador));
+            System.out.println(numero + "x" + contador + " = " + (numero * contador));
             contador++;
         }
 
